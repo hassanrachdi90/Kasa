@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.413e6e7f.css",
-    "main.js": "/static/js/main.b0991e9f.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/bannerAbout-kasa.webp": "/static/media/bannerAbout-kasa.348c76c49c7d89e04de6.webp",
-    "static/media/bannerHome-kasa.webp": "/static/media/bannerHome-kasa.1b3e06f4b7d7b4205789.webp",
-    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
-    "static/media/logo-kasa.svg": "/static/media/logo-kasa.bb1c78bdbf97911cf6044e13e0c4f670.svg",
-    "index.html": "/index.html",
-    "main.413e6e7f.css.map": "/static/css/main.413e6e7f.css.map",
-    "main.b0991e9f.js.map": "/static/js/main.b0991e9f.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/Kasa/static/css/main.72e1bedd.css",
+    "main.js": "/Kasa/static/js/main.884888ef.js",
+    "static/js/787.cda612ba.chunk.js": "/Kasa/static/js/787.cda612ba.chunk.js",
+    "static/media/bannerAbout-kasa.webp": "/Kasa/static/media/bannerAbout-kasa.348c76c49c7d89e04de6.webp",
+    "static/media/bannerHome-kasa.webp": "/Kasa/static/media/bannerHome-kasa.1b3e06f4b7d7b4205789.webp",
+    "static/media/Montserrat-Medium.ttf": "/Kasa/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Regular.ttf": "/Kasa/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/logo-kasa.svg": "/Kasa/static/media/logo-kasa.bb1c78bdbf97911cf6044e13e0c4f670.svg",
+    "index.html": "/Kasa/index.html",
+    "main.72e1bedd.css.map": "/Kasa/static/css/main.72e1bedd.css.map",
+    "main.884888ef.js.map": "/Kasa/static/js/main.884888ef.js.map",
+    "787.cda612ba.chunk.js.map": "/Kasa/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.413e6e7f.css",
-    "static/js/main.b0991e9f.js"
+    "static/css/main.72e1bedd.css",
+    "static/js/main.884888ef.js"
   ]
 }
